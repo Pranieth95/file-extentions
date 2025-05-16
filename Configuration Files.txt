@@ -1,0 +1,11 @@
+.config
+.ini
+.env
+.cfg
+.htaccess
+.htpasswd
+.webinfo
+.settings.php
+.Config
+.conf
+.php.ini

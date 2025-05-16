@@ -1,0 +1,5 @@
+.log
+.LCK
+.LOG
+.error
+.debug

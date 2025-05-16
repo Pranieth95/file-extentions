@@ -1,0 +1,6 @@
+.js
+.jsf
+.min.js
+.ajax
+.ajax.php
+.js.php

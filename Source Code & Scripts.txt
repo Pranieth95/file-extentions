@@ -1,0 +1,16 @@
+.php
+.asp
+.aspx
+.jsp
+.py
+.pl
+.rb
+.sh
+.cgi
+.cs
+.c
+.cpp
+.java
+.class
+.swift
+.go
